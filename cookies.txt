@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT
+.dyno.gg	TRUE	/	FALSE	1999999999	dynobot.sid	s%3Au1_bDl5IUf7v5AU6Rm_0pFWkrk8L3_Ra.YLzrxpkjiVWP3N%2FTwfmQqdBqYmti1iVm9zQf5VySIjk
+.dyno.gg	TRUE	/	FALSE	1999999999	__cfduid	d9119143d01f026a2c4085cbd4e81bab11583415014
+dyno.gg	TRUE	/	FALSE	1999999999	SameSite	Lax
+
